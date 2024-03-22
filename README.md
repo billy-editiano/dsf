@@ -15,6 +15,8 @@ Pre-requisites
 make build -s app=fetcher
 ```
 
+The binary file will be available under `bin` folder.
+
 ### Configuration
 Create a file under `$HOME/.config/dsfetcher/config.json`, here is the format example:
 ```json
