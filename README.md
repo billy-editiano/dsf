@@ -24,3 +24,6 @@ Create a file under `$HOME/.config/dsfetcher/config.json`, here is the format ex
   "mydsinstance": "https://your-datasaur-installation.com/api/health"
 }
 ```
+
+### Running
+You can run the binary directly, or register as a service in your OS.
